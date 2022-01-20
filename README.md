@@ -1,4 +1,4 @@
-### Howdy! Thanks for stopping by! 👋
+<h1>### Howdy! Thanks for stopping by! 👋</h1>
 
 - 🔭 I’m currently working on: My portfolio, recipe app, online store app
 - 🌱 I’m currently learning: Python, Node, React, Java, C#, JavaScript, and SQL
@@ -10,15 +10,14 @@
 - ⚡ Fun fact: I used to work at a planetarium and taught myself to script in Stratoscript to create programs about specific astronomical topics
 - 🧐 What to expect from me in the future: I would love to create an AI that would recognize star patterns in the night sky and create a device that this program would operate on!                                             I have been researching this topic for the past year and have been keeping my eye on Mojo Vision.
 
-- 🤩 What I have learned/practiced/utilized at BloomTech!: 
--       Communication:
+<!--  <h2>🤩 What I have learned/practiced/utilized at BloomTech:</h2> 
+    <h3>### Communication:</h3>
         <p>
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
           <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="zoom badge"/>
           <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack badge"/>
         </p>
-
-        Front-End Development:
+    <h3>### Front-End Development:</h3>
         <p>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html badge"/>
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css badge"/>
@@ -74,4 +73,4 @@
           <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku badge"/>
           <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify badge"/>
           <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel badge"/>
-        </p>
+        </p> -->
