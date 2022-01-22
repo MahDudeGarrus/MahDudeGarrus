@@ -46,7 +46,7 @@
         <p>
           <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
         </p>
-   <h3>Linters:</h3><span/>
+   <h3>Linters:</h3>
         <p>
           <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier badge"/>
           <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint badge"/>
