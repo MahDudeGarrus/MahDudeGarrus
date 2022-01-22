@@ -12,11 +12,9 @@
 
 <h2>🤩 What I have learned/practiced/utilized at BloomTech:</h2> 
     <h3>Communication:</h3>
-        <p>
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
           <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="zoom badge"/>
           <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack badge"/>
-        </p>
     <h3>Front-End Development:</h3>
         <p>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html badge"/>
