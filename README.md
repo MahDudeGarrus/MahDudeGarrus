@@ -5,16 +5,19 @@ I have been using Angular/Typescript for the front end portion of our applicatio
 The tools and endless resources have been a challenging yet exciting to learn and use to create and maintain an application that
 is to set the future processes at FedEx.</p>
 <p></p>A few of these tools are as follows: </p>
-    - CI/CD pipeline deployment
-    - Jenkins application building
-    - PCF/VMWare application space maintenance
-    - Monitoring Tools: App Dynamics, Splunk, Grafana
-    - Cypress E2E testing
-    - Jasmine/Karma/Junit Unit Testing
-    - Ready API Load Testing
-    - MySQL / Oracale DB management
-    - Swagger Enpoint Testing
-    - Postman/Insomina Endpoint Testing
+<ul>
+    <li>- CI/CD pipeline deployment</li>
+    <li>- Jenkins application building</li>
+    <li>- PCF/VMWare application space maintenance</li>
+    <li>- Monitoring Tools: App Dynamics, Splunk, Grafana</li>
+    <li>- Cypress E2E testing</li>
+    <li>- Jasmine/Karma/Junit Unit Testing</li>
+    <li>- Ready API Load Testing</li>
+    <li>- MySQL / Oracale DB management</li>
+    <li>- Swagger Enpoint Testing</li>
+    <li>- Postman/Insomina Endpoint Testing</li>
+</ul>
+    
 A couple fun notes! I created and maintained our team's oneNote manual for tool usage as well as application configurations so
 the team will be up to date on best practices as well as ease of onboarding new members.
 
