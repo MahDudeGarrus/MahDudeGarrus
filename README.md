@@ -19,7 +19,8 @@ is to set the future processes at FedEx.</p>
 </ul>
     
 A couple fun notes! I created and maintained our team's oneNote manual for tool usage as well as application configurations so
-the team will be up to date on best practices as well as ease of onboarding new members.
+the team will be up to date on best practices as well as ease of onboarding new members. I was also one of the two developers on
+my team to implement Cypress E2E exclusively to test our application company wide.
 
 <h2>Little Bit About Me</h2>
 - 🔭 I’m currently working on: My portfolio and a recipe app
