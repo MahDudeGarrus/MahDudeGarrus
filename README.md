@@ -6,16 +6,16 @@ The tools and endless resources have been a challenging yet exciting to learn an
 is to set the future processes at FedEx.</p>
 <p></p>A few of these tools are as follows: </p>
 <ul>
-    <li>- CI/CD pipeline deployment</li>
-    <li>- Jenkins application building</li>
-    <li>- PCF/VMWare application space maintenance</li>
-    <li>- Monitoring Tools: App Dynamics, Splunk, Grafana</li>
-    <li>- Cypress E2E testing</li>
-    <li>- Jasmine/Karma/Junit Unit Testing</li>
-    <li>- Ready API Load Testing</li>
-    <li>- MySQL / Oracale DB management</li>
-    <li>- Swagger Enpoint Testing</li>
-    <li>- Postman/Insomina Endpoint Testing</li>
+    <li>CI/CD pipeline deployment</li>
+    <li>Jenkins application building</li>
+    <li>PCF/VMWare application space maintenance</li>
+    <li>Monitoring Tools: App Dynamics, Splunk, Grafana</li>
+    <li>Cypress E2E testing</li>
+    <li>Jasmine/Karma/Junit Unit Testing</li>
+    <li>Ready API Load Testing</li>
+    <li>MySQL / Oracale DB management</li>
+    <li>Swagger Enpoint Testing</li>
+    <li>Postman/Insomina Endpoint Testing</li>
 </ul>
     
 A couple fun notes! I created and maintained our team's oneNote manual for tool usage as well as application configurations so
