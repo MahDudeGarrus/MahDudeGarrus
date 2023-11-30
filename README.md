@@ -23,15 +23,16 @@ the team will be up to date on best practices as well as ease of onboarding new 
 my team to implement Cypress E2E exclusively to test our application company wide.
 
 <h2>Little Bit About Me</h2>
-- 🔭 I’m currently working on: My portfolio and a recipe app
-- 🌱 I’m currently learning: Python, Java, C#, and Angular
-- 👯 I’m looking to collaborate on: I would love to collaborate with anyone that shares interest in food, games, astronomy, and AI!!
-- 🤔 I’m looking for help with: Creating APIs!! I am very rusty and would love to perfect my Node or Java practices
-- 💬 Ask me about: Favorite anime, knowledge in astronomy, videos games, foods, anything PG!
-- 📫 How to reach me: Email is the best method to reach out to me! sasolis55@gmail.com 
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I used to work at a planetarium and taught myself to script in Stratoscript to create programs about specific astronomical topics
-- 🧐 What to expect from me in the future: I would love to create an AI that would recognize star patterns in the night sky and create a device that this program would operate on!                                             I have been researching this topic for the past year and have been keeping my eye on Mojo Vision.
+<dl>
+    <dt>🔭 I’m currently working on: My portfolio and a recipe app</dt>
+    <dt>👯 I’m looking to collaborate on: I would love to collaborate with anyone that shares interest in food, games, astronomy, and AI!!</dt>
+    <dt>🤔 I’m looking for help with: Creating APIs!! I am very rusty and would love to perfect my Node or Java practices</dt>
+    <dt>💬 Ask me about: Favorite anime, knowledge in astronomy, videos games, foods, anything PG!</dt>
+    <dt>📫 How to reach me: Email is the best method to reach out to me! sasolis55@gmail.com </dt>
+    <dt>😄 Pronouns: she/her/hers</dt>
+    <dt>⚡ Fun fact: I used to work at a planetarium and taught myself to script in Stratoscript to create programs about specific astronomical topics</dt>
+    <dt>🧐 What to expect from me in the future: I would love to create an AI that would recognize star patterns in the night sky and create a device that this program would operate on!</dt>
+</dl>
 
 <h2>🤩 What I have learned/practiced/utilized at BloomTech:</h2> 
     <h3>Communication:</h3>
