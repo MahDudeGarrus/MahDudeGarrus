@@ -1,6 +1,6 @@
 <h1>### Howdy! Thanks for stopping by! 👋</h1>
 
-- 🔭 I’m currently working on: My portfolio, recipe app, online store app
+- 🔭 I’m currently working on: My portfolio and a recipe app
 - 🌱 I’m currently learning: Python, Node, React, Java, C#, JavaScript, and SQL
 - 👯 I’m looking to collaborate on: I would love to collaborate with anyone that shares interest in food, games, astronomy, and AI!!
 - 🤔 I’m looking for help with: Creating APIs!! I am very rusty and would love to perfect my Node practices
