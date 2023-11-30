@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: My portfolio and a recipe app
 - 🌱 I’m currently learning: Python, Java, C#, and Angular
 - 👯 I’m looking to collaborate on: I would love to collaborate with anyone that shares interest in food, games, astronomy, and AI!!
-- 🤔 I’m looking for help with: Creating APIs!! I am very rusty and would love to perfect my Node practices
+- 🤔 I’m looking for help with: Creating APIs!! I am very rusty and would love to perfect my Node or Java practices
 - 💬 Ask me about: Favorite anime, knowledge in astronomy, videos games, foods, anything PG!
 - 📫 How to reach me: Email is the best method to reach out to me! sasolis55@gmail.com 
 - 😄 Pronouns: she/her/hers
