@@ -1,10 +1,10 @@
 <h1>### Howdy! Thanks for stopping by! 👋</h1>
 
-I currently a full stack developer with Cook Systems and am contracted to work with FedEx since September of 2022.
+<p>I currently a full stack developer with Cook Systems and am contracted to work with FedEx since September of 2022.
 I have been using Angular/Typescript for the front end portion of our application and Java/Springboot for the backend.
 The tools and endless resources have been a challenging yet exciting to learn and use to create and maintain an application that
-is to set the future processes at FedEx.
-A few of these tools are as follows:
+is to set the future processes at FedEx.</p>
+<p></p>A few of these tools are as follows: </p>
     - CI/CD pipeline deployment
     - Jenkins application building
     - PCF/VMWare application space maintenance
