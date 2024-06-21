@@ -26,7 +26,7 @@ the team will be up to date on best practices as well as ease of onboarding new 
     <dt>🔭 I’m currently working on: My portfolio and a recipe app</dt>
     <dt>👯 I’m looking to collaborate on: I would love to collaborate with anyone that shares interest in food, games, astronomy, and AI!!</dt>
     <dt>🤔 I’m looking for help with: Creating APIs!! I am very rusty and would love to perfect my Node or Java practices</dt>
-    <dt>💬 Ask me about: Favorite anime, knowledge in astronomy, videos games, foods, anything PG!</dt>
+    <dt>💬 Ask me about: Favorite anime, knowledge in astronomy, videos games, foods!</dt>
     <dt>📫 How to reach me: Email is the best method to reach out to me! sasolis55@gmail.com </dt>
     <dt>😄 Pronouns: she/her/hers</dt>
     <dt>⚡ Fun fact: I used to work at a planetarium and taught myself to script in Stratoscript to create programs about specific astronomical topics</dt>
